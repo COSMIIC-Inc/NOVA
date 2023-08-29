@@ -5,10 +5,10 @@ Open-source high channel count impantable devices
 HIVE or "High density Interconnect with Variable Electronics" is a sub-project of the Cleveland Open Source Modular Implant Innovators Community (COSMIIC). The project goal is to design high channel count implantable medical devices for neural recording and modulation that can be added as modules to the COSMIIC system. Within each device folder, you will find sub-folders that contain documentation of the enclosure and electronics design, testing, and regulatory communications. More infomration on the COSMIIC system can be found [here](https://cosmiic.org/).
 
 ## HIVE TEAM
-Electronics design: Cynthia Chestek, Alex Vaskov, Dylan Wallace, Olivia Lee
-Mechanical design: Doug Shire, Janet Gbur, Sonny Behan
-Regulatory Sponsorship: Paul Cederna
-COSMIIC Integration: Kevin Kilgore, Brian Smith
+Electronics design: Cynthia Chestek, Alex Vaskov, Dylan Wallace, Olivia Lee  
+Mechanical design: Doug Shire, Janet Gbur, Sonny Behan  
+Regulatory Sponsorship: Paul Cederna  
+COSMIIC Integration: Kevin Kilgore, Brian Smith  
 
 ## LICENSING
 All of our design files are open-source! You are free to reference, share, and adapt this material according to Creative Commons License Attribution 4.0 ([CC-By-4.0](https://creativecommons.org/licenses/by/4.0/)).
