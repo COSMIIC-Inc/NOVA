@@ -1,2 +1,2 @@
 # 64 Channel Recording Module Mechanical Design
-Sonny's files go here
+Package design coming soon!
