@@ -1,7 +1,7 @@
 # 64 Channel Recording Module Mechanical Design PDFs
 
 ## DESCRIPTION
-Contains mechanical design drawings for the 64 channel implantable enclosure and assembly. Each bal seal connectors in the implant header is a power/communication port to the COSMIIC network. Sensing channels are grouped into two sets of 32 with strain releif and can exit the HIVE module in either direction. The following parts are shared with the COSMIIC system or commercial off the shelf parts:
+Contains mechanical design drawings for the 64 channel implantable enclosure and assembly. Each bal seal connectors in the implant header is a power/communication port to the COSMIIC network. Sensing channels are grouped into two sets of 32 channels with strain relief and can exit the HIVE module in either direction. The following parts are shared with the COSMIIC system or are commercial off the shelf parts:
 | Part | Quantity | Source  |
 | ------------- | -------------: | ----- |
 | 8 pin sensing feedthrough | 8 | Morgan Advanced Materials Part No. 270913 |
