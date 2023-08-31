@@ -1,8 +1,8 @@
 # 64 Channel Recording Module Mechanical Design
 
 ## DESCRIPTION
-Contains mechanical design files for the 64 channel implantable enclosure.
-![alt text](HIVEassembly.png?raw=true "HIVE 64 Channel Assembly")
+Contains mechanical design files for the 64 channel implantable enclosure. Assembly shown below.
+![alt text](HIVEassembly.PNG?raw=true "HIVE 64 Channel Assembly")
 Each bal seal connectors in the implant header is a power/communication port to the COSMIIC network. Sensing channels are grouped into two sets of 32 channels with strain relief and can exit the HIVE module in either direction. The following parts are shared with the COSMIIC system or are commercial off the shelf parts:
 | Part | Quantity | Source  |
 | ------------- | -------------: | ----- |
