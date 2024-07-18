@@ -1,0 +1,8 @@
+Layer Pairs Export File for PCB: C:\Users\acampean\Carroll Biomedical\CarrollBiomedical - Documents\General\Projects\UM\UM-64NNP\V1\PCB\UM-64NNP-V1 rev 0.18.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=um-64nnp-v1 rev 0.18-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=um-64nnp-v1 rev 0.18-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=L1_L2_Blind_Vias|DrillFile=um-64nnp-v1 rev 0.18-roundholes.tx1|DrillLayers=gtl,g1
+LayersSetName=L2_L3_Buried_Vias|DrillFile=um-64nnp-v1 rev 0.18-roundholes.tx2|DrillLayers=g1,g2
+LayersSetName=L3_L4_Buried_Vias|DrillFile=um-64nnp-v1 rev 0.18-roundholes.tx3|DrillLayers=g2,g3
+LayersSetName=L4_L5_Buried_Vias|DrillFile=um-64nnp-v1 rev 0.18-roundholes.tx4|DrillLayers=g3,g4
+LayersSetName=L5_L6_Blind_Vias|DrillFile=um-64nnp-v1 rev 0.18-roundholes.tx5|DrillLayers=g4,gbl

@@ -1,0 +1,10 @@
+Output: BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [UM-64NNP-V1.PrjPcb]
+   Generated File[//carrollbiomedical.sharepoint.com/sites/CarrollBiomedical/Shared Documents/General/Projects/UM/UM-64NNP/V1/PCB/Output/BOM/BOM-UM-64NNP-V1.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:20:21 PM On 2024-04-16

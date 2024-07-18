@@ -1,0 +1,70 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\acampean\Carroll Biomedical\CarrollBiomedical - Documents\General\Projects\UM\UM-64NNP\V1\PCB\UM-64NNP-V1 rev 0.18.PcbDoc
+Date     : 2024-04-16
+Time     : 4:17:33 PM
+
+Processing Rule : Clearance Constraint (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (Ispad),(IsBoardCutoutRegion)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=15mil) (Preferred=7mil) (WithinRoom('FLEXBEND_SIGNAL') and OnLayer('L4'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=5mil) (WithinRoom('RAIL'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=20mil) (Preferred=3mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=60.000) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (not (OnLayer('Top Overlay') or OnLayer('Bottom Overlay')))
+Rule Violations :0
+
+Processing Rule : Room FLEXBEND_SIGNAL (Bounding Region = (4093.504mil, 3248.504mil, 4457.504mil, 3454.997mil) (False)
+Rule Violations :0
+
+Processing Rule : Room RAIL (Bounding Region = (2574.803mil, 2574.803mil, 5976.206mil, 4452.836mil) (InComponentClass('Components Class3'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (Disabled)(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:02

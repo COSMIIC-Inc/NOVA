@@ -1,0 +1,747 @@
+*************************************************************
+FileName = UM-64NNP-V1 rev 0.18.GBR
+AutoAperture = True
+*************************************************************
+Generating : M6_TOP-VCUT-ONLY
+      File : UM-64NNP-V1 rev 0.18.GM6
+
+    Adding Layer      : M6_TOP-VCUT-ONLY
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Flex Bottom Coverlay + Adhesive (Flex)
+      File : UM-64NNP-V1 rev 0.18.GCB2
+
+    Adding Layer      : Flex Bottom Coverlay + Adhesive (Flex)
+
+
+Used DCodes :
+    D41
+    D107
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : UM-64NNP-V1 rev 0.18.GBP1
+
+    Adding Layer      : L4
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+Generating : M4_Rail
+      File : UM-64NNP-V1 rev 0.18.GM4
+
+    Adding Layer      : M4_Rail
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : L1
+      File : UM-64NNP-V1 rev 0.18.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : UM-64NNP-V1 rev 0.18.G1
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : L3
+      File : UM-64NNP-V1 rev 0.18.G2
+
+    Adding Layer      : L3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D17
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : L4
+      File : UM-64NNP-V1 rev 0.18.G3
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D17
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : L5
+      File : UM-64NNP-V1 rev 0.18.G4
+
+    Adding Layer      : L5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D81
+    D82
+*************************************************************
+
+*************************************************************
+Generating : L6
+      File : UM-64NNP-V1 rev 0.18.GBL
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D20
+    D22
+    D25
+    D31
+    D32
+    D33
+    D38
+    D39
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D81
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : UM-64NNP-V1 rev 0.18.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : UM-64NNP-V1 rev 0.18.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Rigid Top Solder
+      File : UM-64NNP-V1 rev 0.18.GTS
+
+    Adding Layer      : Rigid Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Rigid Bottom Solder
+      File : UM-64NNP-V1 rev 0.18.GBS
+
+    Adding Layer      : Rigid Bottom Solder
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D44
+    D46
+    D48
+    D54
+    D55
+    D56
+    D57
+    D62
+    D63
+    D65
+    D66
+    D67
+    D68
+    D69
+    D78
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : UM-64NNP-V1 rev 0.18.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : UM-64NNP-V1 rev 0.18.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D22
+    D25
+    D31
+    D32
+    D33
+    D38
+    D39
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+*************************************************************
+
+*************************************************************
+Generating : M2_Rigid
+      File : UM-64NNP-V1 rev 0.18.GM2
+
+    Adding Layer      : M2_Rigid
+
+
+Used DCodes :
+    D15
+    D17
+*************************************************************
+
+*************************************************************
+Generating : M5_Cutout
+      File : UM-64NNP-V1 rev 0.18.GM5
+
+    Adding Layer      : M5_Cutout
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Rigid Top Solder
+      File : UM-64NNP-V1 rev 0.18.GTS1
+
+    Adding Layer      : L3
+
+    Adding Layer      : Rigid Top Solder
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : UM-64NNP-V1 rev 0.18.GM11
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D12
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : UM-64NNP-V1 rev 0.18.GTP1
+
+    Adding Layer      : L3
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+Generating : M3_flexOnly
+      File : UM-64NNP-V1 rev 0.18.GM3
+
+    Adding Layer      : M3_flexOnly
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Rigid Bottom Solder
+      File : UM-64NNP-V1 rev 0.18.GBS1
+
+    Adding Layer      : L4
+
+    Adding Layer      : Rigid Bottom Solder
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : UM-64NNP-V1 rev 0.18.GM12
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D12
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : UM-64NNP-V1 rev 0.18.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : UM-64NNP-V1 rev 0.18.GM14
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D12
+    D73
+    D105
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : UM-64NNP-V1 rev 0.18.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : UM-64NNP-V1 rev 0.18.GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D12
+    D18
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Flex Top Coverlay + Adhesive (Flex)
+      File : UM-64NNP-V1 rev 0.18.GCT2
+
+    Adding Layer      : Flex Top Coverlay + Adhesive (Flex)
+
+
+Used DCodes :
+    D41
+    D107
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : UM-64NNP-V1 rev 0.18.GD1
+
+    Adding Drill Pair : L1-L6
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : UM-64NNP-V1 rev 0.18.GD2
+
+    Adding Drill Pair : L1-L2
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : UM-64NNP-V1 rev 0.18.GD3
+
+    Adding Drill Pair : L2-L3
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : UM-64NNP-V1 rev 0.18.GD4
+
+    Adding Drill Pair : L3-L4
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : UM-64NNP-V1 rev 0.18.GD5
+
+    Adding Drill Pair : L4-L5
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : UM-64NNP-V1 rev 0.18.GD6
+
+    Adding Drill Pair : L5-L6
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : UM-64NNP-V1 rev 0.18.GG1
+
+    Adding Drill Pair : L1-L6
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : UM-64NNP-V1 rev 0.18.GG2
+
+    Adding Drill Pair : L1-L2
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : UM-64NNP-V1 rev 0.18.GG3
+
+    Adding Drill Pair : L2-L3
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : UM-64NNP-V1 rev 0.18.GG4
+
+    Adding Drill Pair : L3-L4
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : UM-64NNP-V1 rev 0.18.GG5
+
+    Adding Drill Pair : L4-L5
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : UM-64NNP-V1 rev 0.18.GG6
+
+    Adding Drill Pair : L5-L6
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : UM-64NNP-V1 rev 0.18.GM
+
+
+Used DCodes :
+    D107
+*************************************************************
+
